@@ -10,6 +10,6 @@
     },
     "icons": {
         "96": "icons/habitica.png"
-    }
-
+    },
+    "permissions": ["cookies"]
 }
