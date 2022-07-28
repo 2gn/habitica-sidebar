@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Habitica_Sidebar",
+    "version": "1.0",
+    "description": "Adds a sidebar that can display https://habitica.com",
+    "sidebar_action": {
+        "default_title": "Habitica",
+        "default_panel": "sidebar.html",
+        "default_icon": "icons/habitica.png"
+    },
+    "icons": {
+        "96": "icons/habitica.png"
+    }
+
+}

@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: sidebar.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GBsVQ5qas6P7p1jFW6q9p5/t+5c=
+SHA256-Digest: doyyZmakvf+LFxbaWdS4eu2uP/FLpxEe0ft7tCahKBQ=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: SFhZyYXya6e2E8HI4JxQkmw/p48=
+SHA256-Digest: HZ7+yAhTElcVIa2TGH48/7vwlvGY6ww6jcTFrCJKs+I=
+
+Name: icons/habitica.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mIVkRdy6d7FWl9G+lwEOSr7FMfg=
+SHA256-Digest: Xk5sJ0nHOXNb6OFzwnpLBaHEjJ97t/0ola5ehe+it9g=
+
+Name: __MACOSX/._icons
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: SLRHEdbtNKsNZmp0SRYLizLC0dg=
+SHA256-Digest: 6+cWyQhOQwzysWkefC0X5vCHnGtpmL/oKqaXFekaMSc=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: u2OmwD4ensGz67Bk8JQ3hHj0E9w=
+SHA256-Digest: EPHlur08xM5i/NgeHGhiDwLGQcGAES7+EIwZ9rPZT7c=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jLOUIvbozjQrhhanYPGizV8mrjg=
+SHA256-Digest: rUV06bxNLfGGQoK86lMcoqCA+e1X6XtjLft3QUN3PUI=
+
