@@ -5,11 +5,19 @@
     "description": "Adds a sidebar that can display https://habitica.com",
     "sidebar_action": {
         "default_title": "Habitica",
-        "default_panel": "sidebar.html",
+        "default_panel": "habitica-view.html",
+        "default_icon": "icons/habitica.png"
+    },
+    "browser_action": {
+        "default_title": "Habitica",
+        "default_popup": "popup.html",
         "default_icon": "icons/habitica.png"
     },
     "icons": {
         "96": "icons/habitica.png"
     },
-    "permissions": ["cookies"]
+    "permissions": [
+        "cookies",
+        "activeTab"
+    ]
 }
